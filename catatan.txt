@@ -1,4 +1,5 @@
-1. Komponen Form Input 
-2. Backend
-3. Navbar
+1. Komponen Form Input (done)
+2. Backend (done)
+3. Navbar 
+app\dashboard\storeid ada eror dari await auth() udah selesai jaga jaga logic error
 4. Setting Toko
