@@ -4,6 +4,7 @@
 app\dashboard\storeid ada eror dari await auth() udah selesai jaga jaga logic error
 4. Setting Toko
 5.(Dashboard)/[storeId]/(routes) error selesai
+6.Ada fitur lanjutan web page
 
 
 di buat menggunakan Next.Js,ReactJs,tailwind CSS, Clerk, Prisma, PostgreSQL
